@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2o3MQYC' target='_blank'><img src='https://bit.ly/2noNCPD' width='500px'/><br/>Đất Nền - Kios Vành Đai 4</a>.Giá Chỉ 13 Triệu/m2. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2o3MQYC' target='_blank'><img src='https://lh4.googleusercontent.com/-Xb9Qt9BHDuY/XNvfLE8Ut-I/AAAAAAAAAt4/_Bycux0U-LYcirtxaxu4PaPMp9Pluz3JACLcBGAs/s1600/B1.webp' width='500px'/><br/>Đất Nền - Kios Vành Đai 4</a>.Giá Chỉ 13 Triệu/m2. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
